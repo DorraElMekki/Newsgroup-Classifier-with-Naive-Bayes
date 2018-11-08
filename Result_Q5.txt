@@ -1,0 +1,8 @@
+MAP estimator
+
+The testing accuracy:0.96
+Wrong predictions:
+prediction medical , the real value is space :12
+prediction space , the real value is medical :4
+total false predictions: 16
+Size of the testing data: 400

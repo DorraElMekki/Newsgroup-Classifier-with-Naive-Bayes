@@ -1,0 +1,12 @@
+Mutual information
+Indices and mutual information scores of the 10 features in descending order
+Feature N: 25773  =>mutual information equal to: 0.22199134618517719
+Feature N: 11999  =>mutual information equal to: 0.09428856018679163
+Feature N: 13288  =>mutual information equal to: 0.09141739091863704
+Feature N: 2848  =>mutual information equal to: 0.07988931992002954
+Feature N: 14702  =>mutual information equal to: 0.07819961707710793
+Feature N: 15990  =>mutual information equal to: 0.0768070770833348
+Feature N: 614  =>mutual information equal to: 0.07473599079912648
+Feature N: 3300  =>mutual information equal to: 0.07117925969237004
+Feature N: 5749  =>mutual information equal to: 0.06856614476265091
+Feature N: 12807  =>mutual information equal to: 0.06783145073298388

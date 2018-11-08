@@ -1,0 +1,8 @@
+MLE estimator
+
+The testing accuracy:0.16
+Wrong predictions:
+prediction medical , the real value is space :184
+prediction space , the real value is medical :152
+total false predictions: 336
+Size of the testing data: 400
